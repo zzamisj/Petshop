@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #0d1ca0;
+  }
+  
+  p {
+    color: #666;
+  }
+
+  .register-h1 {
+    color: rgb(0, 81, 255);
+  }
+
+
+  #login-form input {
+    margin-bottom: 10px; /* Add margin-bottom to create space */
+  }
